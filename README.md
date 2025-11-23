@@ -12,11 +12,11 @@ Geo_Journal is a Flutter mobile app for capturing, annotating, and organizing lo
 - Hilmy Muhamad Dzakwan_23552011368
 - TIF RP 23 CID B
 
-### Project structure (important folders)
+## Project structure (important folders)
 
 ![Structure Project](https://github.com/hilmymdz/GeoJournal/blob/349d344d1d2a2b7e31f7c66f8fd67b00f4f56b55/assets/images/image.png)
 
-### Screenshot
+## Screenshot
 
 <p align="center">
 <img src="https://github.com/hilmymdz/GeoJournal/blob/master/assets/images/Screenshot_20251123-214438.png?raw=true" width="200" alt="Splash Screen">
