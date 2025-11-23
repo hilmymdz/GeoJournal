@@ -2,6 +2,10 @@
 
 Geo_Journal is a Flutter mobile app for capturing, annotating, and organizing location-based notes and journal entries. It focuses on simple geotagged entries, offline support, and easy export. This is a Design Project Only
 
+### By
+- Hilmy Muhamad Dzakwan_23552011368
+- TIF RP 23 CID B
+
 ### Key features
 
 - Create geotagged journal entries with title, description, photos, and timestamp
@@ -24,6 +28,4 @@ Geo_Journal is a Flutter mobile app for capturing, annotating, and organizing lo
 <img src="https://github.com/hilmymdz/GeoJournal/blob/master/assets/images/Screenshot_20251123-214520.png?raw=true" width="200" alt="About Page">
 </p>
 
-### By
-- Hilmy Muhamad Dzakwan_23552011368
-- 2025
+
