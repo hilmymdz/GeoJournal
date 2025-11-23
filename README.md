@@ -25,5 +25,5 @@ Geo_Journal is a Flutter mobile app for capturing, annotating, and organizing lo
 </p>
 
 ### By
--Hilmy Muhamad Dzakwan_23552011368
--2025
+- Hilmy Muhamad Dzakwan_23552011368
+- 2025
