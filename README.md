@@ -16,7 +16,7 @@ Geo_Journal is a Flutter mobile app for capturing, annotating, and organizing lo
 <p align="center">
 <img src="https://github.com/hilmymdz/GeoJournal/blob/master/assets/images/Screenshot_20251123-214438.png?raw=true" width="200" alt="Splash Screen">
 <img src="https://github.com/hilmymdz/GeoJournal/blob/master/assets/images/Screenshot_20251123-214441.png?raw=true" width="200" alt="Welcome Page">
-<img src="https://github.com/hilmymdz/GeoJournal/blob/master/assets/images/Screenshot_20251123-214449.png?raw=true width="200" alt="Login Page">
+<img src="https://github.com/hilmymdz/GeoJournal/blob/master/assets/images/Screenshot_20251123-214449.png?raw=true" width="200" alt="Login Page">
 <img src="https://github.com/hilmymdz/GeoJournal/blob/master/assets/images/Screenshot_20251123-214453.png?raw=true" width="200" alt="Register Page">
 <img src="https://github.com/hilmymdz/GeoJournal/blob/master/assets/images/Screenshot_20251123-214502.png?raw=true" width="200" alt="Home Page">
 <img src="https://github.com/hilmymdz/GeoJournal/blob/master/assets/images/Screenshot_20251123-214509.png?raw=true" width="200" alt="Map Page">
